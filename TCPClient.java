@@ -3,7 +3,7 @@ package client;
 
 import java.net.*;
 import java.util.Scanner;
-import java.io.*;
+import java;
 
 import shared.SerializableData;
 
