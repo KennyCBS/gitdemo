@@ -12,7 +12,7 @@ public class TCPClient {
 	{
 		while(true){
 			String username;
-			double amount;
+			double amount = 42; 
 			
 			
 			
